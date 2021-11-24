@@ -1,0 +1,7 @@
+C:\Users\jlava\source\repos\Sony\bin\Debug\Sony.exe.config
+C:\Users\jlava\source\repos\Sony\bin\Debug\Sony.exe
+C:\Users\jlava\source\repos\Sony\bin\Debug\Sony.pdb
+C:\Users\jlava\source\repos\Sony\obj\Debug\Sony.csproj.CoreCompileInputs.cache
+C:\Users\jlava\source\repos\Sony\obj\Debug\Sony.exe
+C:\Users\jlava\source\repos\Sony\obj\Debug\Sony.pdb
+C:\Users\jlava\source\repos\Sony\obj\Debug\Sony.csproj.AssemblyReference.cache
